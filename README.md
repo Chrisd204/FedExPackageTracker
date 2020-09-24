@@ -1,7 +1,6 @@
 # FedExPackageTracker
 A Tkinter App to Track FedEx Domestic Packages
 
-
 ## Table of Contents
 * [Video](#Video)
 * [Technologies](#Technologies)
@@ -19,10 +18,14 @@ Check out the youtube demo
 * [FedEx Api]
 
 ## LocalSetup
-1) Install All Dependencies   
-`pip3 install xmltodict
 
-2) Run the File  
+1) Create FedEx Account and Apply for Credentials
+`FedEx will issue a testing set of credentials, you will then have to reply for production credentials once testing is complete`
+
+2) Install All Dependencies   
+`pip3 install xmltodict`
+
+3) Run the File  
 `python3 fedexdemo.py`   
 
 ## ToDo
