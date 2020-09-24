@@ -18,8 +18,8 @@ Check out the youtube demo
 * [FedEx Api]
 
 ## LocalSetup
-
 1) Create FedEx Account and Apply for Credentials
+
 `FedEx will issue a testing set of credentials, you will then have to reply for production credentials once testing is complete`
 
 2) Install All Dependencies   
