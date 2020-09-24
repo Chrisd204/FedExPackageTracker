@@ -10,7 +10,7 @@ A Tkinter App to Track FedEx Domestic Packages
 
 ## Video
 Check out the youtube demo
-[Youtube Video]
+[Youtube Video]:<https://www.youtube.com/watch?v=VQ1cLm57maM>
 
 ## Technologies
 * [Tkinter]
